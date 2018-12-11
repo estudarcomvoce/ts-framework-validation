@@ -26,7 +26,7 @@
     "dot-prop": "^4.2.0",
     "phone": "^2.0.0",
     "rimraf": "^2.6.2",
-    "ts-framework": "nxtep-io/ts-framework#v2.1",
+    "ts-framework": "estudarcomvoce/ts-framework#v2.1",
     "typescript": "^2.5.3"
   },
   "devDependencies": {
