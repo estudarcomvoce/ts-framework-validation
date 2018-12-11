@@ -23,7 +23,7 @@
   "dependencies": {
     "@types/semver": "^5.4.0",
     "rimraf": "^2.6.2",
-    "ts-framework": "nxtep-io/ts-framework",
+    "ts-framework": "estudarcomvoce/ts-framework",
     "typescript": "^2.5.3"
   },
   "devDependencies": {
